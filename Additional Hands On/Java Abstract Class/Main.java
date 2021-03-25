@@ -25,7 +25,7 @@ public class Main{
 		MyBook new_novel=new MyBook();
 		new_novel.setTitle(title);
 		System.out.println("The title is: "+new_novel.getTitle());
-      	sc.close();
+      		sc.close();
 		
 	}
 }
